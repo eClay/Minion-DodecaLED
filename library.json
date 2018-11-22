@@ -1,0 +1,19 @@
+{
+  "name": "MinionDodecaLED",
+  "frameworks": "Arduino",
+  "platforms": "eClay",
+  "keywords": "serial",
+  "description": "",
+  "homepage": "",
+  "authors":
+  {
+    "name": "",
+    "maintainer": true
+  },
+  "repository":
+  {
+      "type": "git",
+      "url": "https://github.com/eClay/Minion-DodecaLED.git"
+  },
+  "version": "0.1"
+}

@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+      "hri/sam.h": "c",
+      "samd21g18a.h": "c",
+      "wdigital.h": "c",
+      "cstdlib": "cpp",
+      "processor_port.h": "c",
+      "utils_repeat_macro.h": "c",
+      "utils_increment_macro.h": "c",
+      "a_digital.h": "c",
+      "limits": "cpp",
+      "type_traits": "cpp",
+      "core_digital.h": "c",
+      "a_types.h": "c",
+      "core_reset.h": "c",
+      "port.h": "c",
+      "stdbool.h": "c",
+      "samd21.h": "c",
+      "atomic.h": "c",
+      "sam.h": "c",
+      "stdint.h": "c",
+      "utils.h": "c"
+    },
+    "editor.tabSize": 2
+  }
